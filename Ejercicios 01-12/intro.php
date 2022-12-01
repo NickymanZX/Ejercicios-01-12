@@ -41,6 +41,6 @@ $pokemon = ["id" => "01",
             "nombre" => "Venasaur", 
             "tipo" => "Planta"];
             
-echo $pokemon = [2][3];
+echo $pokemon[2][3].PHP_EOL;
 ?>
 
