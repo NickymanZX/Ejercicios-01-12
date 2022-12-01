@@ -23,7 +23,7 @@ echo $divi.PHP_EOL;
 
 $pokemon = ["id" => "01", "nombre" => "Bulbasaur", "tipo" => "Planta"];
 
-echo $pokemon[1];
+echo $pokemon[1].PHP_EOL;
 
 ?>
 
